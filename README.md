@@ -48,7 +48,7 @@ The `project_report` file contains a detailed description of all system features
 ## License
 
 © All rights reserved. <br>
-This project was created as part of the **17CS53 Database Management System Lab**, 
+This project was created as part of the **17CS58 Database Management System Lab**, 
 5th Semester, B.E. CSE – BMS Institute of Technology & Management, Bengaluru, India
 
 **Team Members:**
