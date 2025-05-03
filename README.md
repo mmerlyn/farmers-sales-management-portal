@@ -37,7 +37,7 @@ This project helps us:
 - Design meaningful **use cases and database models**
 - Apply concepts from our **Database Management Systems (DBMS)** course
 - Build end-to-end web applications using **PHP and MySQL**
-- Gain hands-on experience using this excellent book:  
+- Gain hands-on experience using this amazing book:  
   📖 [*Head First PHP & MySQL* – O’Reilly](https://www.oreilly.com/library/view/head-first-php/9780596157739/)
 
 
